@@ -1,0 +1,10 @@
+autogen-agentchat
+autogen-ext[openai]
+crewai
+pymupdf
+autogenstudio
+google-adk
+fastapi
+uvicorn
+pydantic
+psycopg2-binary
